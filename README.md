@@ -6,6 +6,9 @@ This project aims for extreme accuracy by matching the documented behaviors of t
 
 ---
 
+Here is an example of one of the games available on the emulator: **Super Mario Bros. 3**
+
+
 ![smb3gif](smb3.gif)
 
 ---
