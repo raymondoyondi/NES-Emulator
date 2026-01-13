@@ -6,6 +6,10 @@ This project aims for extreme accuracy by matching the documented behaviors of t
 
 ---
 
+![smb3gif](smb3.gif)
+
+---
+
 ## 🚀 Features
 
 * **Cycle-Accurate Timing:** Precise synchronization between the CPU and PPU to ensure compatibility with games that rely on mid-scanline effects.
